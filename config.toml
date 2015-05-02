@@ -1,0 +1,17 @@
+baseurl = "http://varunksaini.com/"
+languageCode = "en-us"
+title = "Varun K Saini"
+disqusShortname = "varunksaini"
+MetaDataFormat = "toml"
+[params]
+	sidebartitle = "Varun Saini"
+	sidebartagline = "AI Prophet"
+[[menu.main]]
+    name = "Blog"
+    url = "/posts"
+[[menu.social]]
+	pre = "<i class='fa fa-twitter'></i>"
+    url = "http://www.twitter.com/AIProphet"
+    identifier = "twitter"
+[author]
+    name = "Varun Saini"
