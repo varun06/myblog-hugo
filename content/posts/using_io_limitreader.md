@@ -5,8 +5,6 @@ title = "using io.LimitReader to read a binary file"
 
 +++
 
-# Using io.LimitReader in Go
-
 I was working on a problem and wanted to read a very specific chunck of file. I read Go documentation and came through [io.LimitReader](http://golang.org/pkg/io/#LimitedReader). According to official documentation, "A LimitedReader reads from R but limits the amount of data returned to just N bytes. Each call to Read updates N to reflect the new amount remaining." and this is what I wanted.
 
 ```go

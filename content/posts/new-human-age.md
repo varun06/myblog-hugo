@@ -4,8 +4,6 @@ draft = false
 title = "human++"
 +++
 
-# HUMAN++
-
 We all talk about an omnipotent AI that will come some time in future and might kill (hypothetically) its masters (humans in this case). I will love to have intelligent robots but I don't see it happening soon. What I believe will happen before AI take over the world, human++, more intelligent humans. If we look carefully we will see subtle changes and technical breakthroughs that are happening around us and pointing towards a brave new world. Some people call this phenomena "Singularity" but I call it human++.
 
 

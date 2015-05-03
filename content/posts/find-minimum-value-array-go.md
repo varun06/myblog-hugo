@@ -5,8 +5,6 @@ title = "Find Mimimum Value in an array in go"
 
 +++
 
-# How to find a min array value in go lang:
-
 ```go
 package main
 

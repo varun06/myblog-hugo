@@ -2,16 +2,19 @@ baseurl = "http://varunksaini.com/"
 languageCode = "en-us"
 title = "Varun K Saini"
 disqusShortname = "varunksaini"
+Copyright = "All rights reserved - 2015"
+paginate = 5
 MetaDataFormat = "toml"
 [params]
-	sidebartitle = "Varun Saini"
-	sidebartagline = "AI Prophet"
-[[menu.main]]
-    name = "Blog"
-    url = "/posts"
-[[menu.social]]
-	pre = "<i class='fa fa-twitter'></i>"
-    url = "http://www.twitter.com/AIProphet"
-    identifier = "twitter"
-[author]
-    name = "Varun Saini"
+  description = "Engineer"
+  cover = "files/me.jpg"
+  author = "Varun Saini"
+  authorlocation = "Chicago, USA"
+  authorwebsite = "http://varunksaini.com"
+  bio= "Why are we here??"
+  logo = "img/favicon.ico"
+  googleAnalyticsUserID = "UA-42065254-1"
+  githubName = "varun06"
+  twitterName = "varunksaini"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false

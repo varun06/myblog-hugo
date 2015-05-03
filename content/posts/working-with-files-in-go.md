@@ -5,8 +5,6 @@ title = "Working with files in go lang"
 
 +++
 
-# Working with files in go lang
-
 Go makes working with file very easy and file reading is an operation that is used very frequently.
 
 To open a file in Go, we can use "Open" function from the "os" package.

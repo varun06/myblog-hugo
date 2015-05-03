@@ -5,8 +5,6 @@ title = "Go lang boiler plate sublime text snippet"
 
 +++
 
-# A sublime Text snippet to auto fill go lang boiler plate
-
 If you work with go lang, you know that every time you write a new go program you have to add some lines of go code that is same most of the time. if you are learning and keep creating small scripts then it gets annoying some time. Sublime text provides an option to create snippets and you can use snippets to auto fill some go lang boiler plate.
 
 ```language=go

@@ -5,8 +5,6 @@ title = "Books I read in 2014"
 
 +++
 
-# Books I read in 2014
-
 I read 7 books (and ton of artilcles in [pockets](http://getpocket.com/) app) this year.
 
 <br>

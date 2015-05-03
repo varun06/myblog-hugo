@@ -5,8 +5,6 @@ title = "array and slices in go"
 
 +++
 
-# Array and slices in go lang
-
 In **go** lang, an array looks like this -
 
 `var x [5]int`
