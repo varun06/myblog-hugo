@@ -3,10 +3,10 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # delete the public directory if exists.
-rm -rf public
+# rm -rf public
 
 # create a submodule for deployment
-git submodule add git@github.com:<varun06>/<varun06>.github.io.git public
+# git submodule add git@github.com:varun06/varun06.github.io.git public
 
 # Build the project.
 hugo -t casper # if using a theme, replace by `hugo -t <yourtheme>`
@@ -30,7 +30,7 @@ git push origin master
 cd ..
 
 # delete the submodule as I am having issue with deployment.
-git submodule deinit public
-git rm public
-git rm --cached public
-rm -rf .git/modules/public
+# git submodule deinit public
+# git rm public
+# git rm --cached public
+# rm -rf .git/modules/public
