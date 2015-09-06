@@ -1,0 +1,20 @@
+baseurl = "http://varunksaini.com/"
+languageCode = "en-us"
+title = "Varun K Saini"
+disqusShortname = "varunksaini"
+Copyright = "All rights reserved - 2015"
+paginate = 5
+MetaDataFormat = "toml"
+[params]
+  description = "Engineer"
+  cover = "files/me.jpg"
+  author = "Varun Saini"
+  authorlocation = "Chicago, USA"
+  authorwebsite = "http://varunksaini.com"
+  bio= "Why are we here??"
+  logo = "img/favicon.ico"
+  googleAnalyticsUserID = "UA-42065254-1"
+  githubName = "varun06"
+  twitterName = "varunksaini"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false

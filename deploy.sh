@@ -9,7 +9,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 # git submodule add git@github.com:varun06/varun06.github.io.git public
 
 # Build the project.
-hugo -t casper # if using a theme, replace by `hugo -t <yourtheme>`
+hugo -t material-design # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder
 cd public

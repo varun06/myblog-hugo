@@ -1,20 +1,22 @@
-baseurl = "http://varunksaini.com/"
+theme="material-design"
+baseurl = "http://varunksaini.com"
 languageCode = "en-us"
-title = "Varun K Saini"
-disqusShortname = "varunksaini"
-Copyright = "All rights reserved - 2015"
-paginate = 5
+title = "I am an Engineer"
 MetaDataFormat = "toml"
+paginate = 9 # To specify a multiple of 3
+disqusShortname = "varunksaini" # optional
+copyright = "© 2015 Copyright Text"
+
 [params]
-  description = "Engineer"
-  cover = "files/me.jpg"
-  author = "Varun Saini"
-  authorlocation = "Chicago, USA"
-  authorwebsite = "http://varunksaini.com"
-  bio= "Why are we here??"
-  logo = "img/favicon.ico"
-  googleAnalyticsUserID = "UA-42065254-1"
-  githubName = "varun06"
-  twitterName = "varunksaini"
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
+  description = "go get life" # optional
+  twitter = "varunksaini" # optional
+  github = "varun06" # optional
+  facebook = "varunsaini" # optional
+  gplus = "varunksaini" # optional
+  linkedin = "varunksaini" # optional
+  headerCover = "files/me.jpg" # optional
+  footerCover = "images/footerCover.png" # optional
+  googleAnalyticsUserID = "UA-42065254-1" # optional
+
+[permalinks]
+  post = "/:year/:month/:day/:title/" # optional
