@@ -1,5 +1,0 @@
-localhost:8080  # website URL and port
-
-root      public           # the folder where Hugo generates the website
-basicauth /admin user pass # protect the admin area using HTTP basic auth
-websocket /echo cat
