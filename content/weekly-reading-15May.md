@@ -6,7 +6,7 @@ title = "weekly reading"
 
 +++
 
-I love reading and read a lot. Mostly my reading is on topics related to programming, science, and social science. When I find an article worth reading I use (pocket)[https://getpocket.com] to store the article. Once I have 4-5 articles to read, I read them and then share them to twitter or facebook. Most of the reading happen on weekends and I also read some books too. Today morning I thought to start this section on my blog so that if someone find these articles enticing, they can also get the link to read them.
+I love reading and read a lot. Mostly my reading is on topics related to programming, science, and social science. When I find an article worth reading I use (pocket)[https://getpocket.com] to store the article. Once I have 5-10 articles to read, I read them and then share them to twitter or facebook. Most of the reading happen on weekends and I also read some books too. Today morning I thought to start this section on my blog so that if someone find these articles enticing, they can also get the link to read them.
 
 1. http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/
 2. http://priceonomics.com/online-dating-and-the-death-of-the-mixed/
