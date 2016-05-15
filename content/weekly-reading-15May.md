@@ -1,8 +1,8 @@
 +++
-categories = ["general", "reading"]
-date = "2016-05-15T08:01:57-05:00"
+categories = ["general", "technical"]
+date = "2016-05-15T08:43:02-05:00"
 tags = ["general", "blog"]
-title = "weekly reading"
+title = "weekly reading 15May"
 
 +++
 
