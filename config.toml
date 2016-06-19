@@ -11,7 +11,7 @@ disqusShortname = "varunksaini"
 [params]
 	name = "Varun Saini"
 	description = "Just write"
-	bio = "Programmer - logger - Gopher"
+	bio = "Programmer - blogger - Gopher"
 	# Enter optionally your twitter account
 	twitter = "https://twitter.com/varunksaini"
 	enableRSS = true
