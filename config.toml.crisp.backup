@@ -1,0 +1,18 @@
+theme="crisp"
+baseurl = "http://varunksaini.com"
+languageCode = "en-us"
+title = "keep living, keep learning.."
+MetaDataFormat = "toml"
+paginate = 8 # To specify a multiple of 3
+disqusShortname = "varunksaini" # optional
+copyright = "© 2015 Copyright Text"
+
+[params]
+  description = "go get life" # optional
+  github = "varun06" # optional
+  gplus = "varunksaini" # optional
+  linkedin = "varunksaini" # optional
+  googleAnalyticsUserID = "UA-42065254-1" # optional
+
+[permalinks]
+  post = "/:year/:month/:day/:title/" # optional

@@ -1,18 +1,52 @@
-theme="crisp"
-baseurl = "http://varunksaini.com"
+# Site settings
+baseurl = "http://varunksaini.com/"
 languageCode = "en-us"
-title = "keep living, keep learning.."
-MetaDataFormat = "toml"
-paginate = 8 # To specify a multiple of 3
-disqusShortname = "varunksaini" # optional
-copyright = "© 2015 Copyright Text"
+title = "Never stop learning..."
+theme = "hugo-cactus-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-42065254-1"
+# Disable comments by leaving disqusShortname empty
+disqusShortname = "varunksaini"
 
 [params]
-  description = "go get life" # optional
-  github = "varun06" # optional
-  gplus = "varunksaini" # optional
-  linkedin = "varunksaini" # optional
-  googleAnalyticsUserID = "UA-42065254-1" # optional
+	name = "Varun Saini"
+	description = "Just write"
+	bio = "Programmer - logger - Gopher"
+	# Enter optionally your twitter account
+	twitter = "https://twitter.com/varunksaini"
+	enableRSS = true
 
-[permalinks]
-  post = "/:year/:month/:day/:title/" # optional
+	# Add custom assets with their paths relative to the static folder
+	customCSS = []
+	customJS  = []
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = ""
+	about = ""
+	subscribe = ""
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "Who am I, Why I am here..."
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "mono-social"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = "circle"
+
+# Add additional social link entries underneath
+[social]
+    twitter  = "https://www.twitter.com/varunksaini"
+    facebook = "https://www.facebook.com/varunksaini"
+    github   = "https://www.github.com/varun06"
