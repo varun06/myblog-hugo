@@ -1,6 +1,6 @@
 +++
 categories = ["general", "technical"]
-date = "2016-07-17T07:51:04-05:00"
+date = "2016-07-17T06:57:00-05:00"
 tags = ["general", "blog"]
 title = "good read on golang and generics"
 
