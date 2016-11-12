@@ -9,7 +9,7 @@ categories = [
   "general",
 ]
 date = "2016-11-12T06:27:38-06:00"
-title = "blocking youtube on mac"
+title = "blocking youtube on mac using Parental Controls"
 
 +++
 
