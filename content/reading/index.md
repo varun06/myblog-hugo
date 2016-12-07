@@ -1,3 +1,6 @@
+* [Using Go's 'context' library for making your logs make sense](https://blog.gopheracademy.com/advent-2016/context-logging/)
+* [No Spanking, No Timeout, No Problems](http://www.theatlantic.com/health/archive/2016/03/no-spanking-no-time-out-no-problems/475440/)
+* [How Do They Do It: Timers in Go](https://blog.gopheracademy.com/advent-2016/go-timers/)
 * [There is no place like home](https://aeon.co/essays/why-theres-no-place-like-home-for-anyone-any-more)
 * [Dave Cheney - Gopher Puzzlers](https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide#1)
 * [Joe Duffy - Asynchronous Everything](http://joeduffyblog.com/2015/11/19/asynchronous-everything/)
