@@ -1,3 +1,6 @@
+* [load balancing is impossible](https://www.youtube.com/watch?v=gas2v1emubU)
+* [The Evolution of Software Architecture](http://conferences.oreilly.com/software-architecture/sa-ny/public/content/evolution-of-software-architecture)
+* [The Illustrated Children's Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
 * [Go Talk & Ask Me Anything With William Kennedy](https://www.youtube.com/watch?v=7YcLIbG1ekM)
 * [Recardo Semler - Radical wisdom for a company](http://www.ted.com/talks/ricardo_semler_radical_wisdom_for_a_company_a_school_a_life#t-184512)
 * [Robert Griesemer - Prototype you desing(Go)](http://www.thedotpost.com/2016/10/robert-griesemer-prototype-your-design)
