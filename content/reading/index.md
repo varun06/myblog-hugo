@@ -1,3 +1,6 @@
+* [Why time management is ruining our lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
+* [how to build robust systems](http://lemire.me/blog/2016/12/15/how-to-build-robust-systems/)
+* [Take It to the Limit: Considerations for Building Reliable Systems](http://bravenewgeek.com/take-it-to-the-limit-considerations-for-building-reliable-systems/)
 * [exposing go on the internet](https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet/)
 * [Modern garbage collection](https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e#.qzwthluhi)
 * [mastering programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
