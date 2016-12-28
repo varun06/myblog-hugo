@@ -2,7 +2,7 @@
 baseurl = "https://varunksaini.com/"
 languageCode = "en-us"
 title = "Never stop learning..."
-theme = "hugo-cactus-theme"
+# theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty

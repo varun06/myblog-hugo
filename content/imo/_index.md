@@ -1,3 +1,6 @@
+These are the articles, Videos, and podcasts that I read/watch/listen.
+
+# Interesting Reading
 * [Why time management is ruining our lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
 * [how to build robust systems](http://lemire.me/blog/2016/12/15/how-to-build-robust-systems/)
 * [Take It to the Limit: Considerations for Building Reliable Systems](http://bravenewgeek.com/take-it-to-the-limit-considerations-for-building-reliable-systems/)
@@ -27,3 +30,26 @@
 * [There is no place like home](https://aeon.co/essays/why-theres-no-place-like-home-for-anyone-any-more)
 * [Dave Cheney - Gopher Puzzlers](https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide#1)
 * [Joe Duffy - Asynchronous Everything](http://joeduffyblog.com/2015/11/19/asynchronous-everything/)
+
+# Interesting Videos
+* [load balancing is impossible](https://www.youtube.com/watch?v=gas2v1emubU)
+* [The Evolution of Software Architecture](http://conferences.oreilly.com/software-architecture/sa-ny/public/content/evolution-of-software-architecture)
+* [The Illustrated Children's Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
+* [Go Talk & Ask Me Anything With William Kennedy](https://www.youtube.com/watch?v=7YcLIbG1ekM)
+* [Recardo Semler - Radical wisdom for a company](http://www.ted.com/talks/ricardo_semler_radical_wisdom_for_a_company_a_school_a_life#t-184512)
+* [Robert Griesemer - Prototype you desing(Go)](http://www.thedotpost.com/2016/10/robert-griesemer-prototype-your-design)
+* [A Race Detector Unfurled](http://systemswe.love/videos/a-race-detector-unfurled)
+
+# Interesting Podcasts
+* [99% Invisible](99percentinvisible.org)
+* [The Changelog](changelog.fm)
+* [Freakonomics Radion](www.wnyc.org/articles/freakonomics-podcast)
+* [Go Time](gotime.fm)
+* [Hanselminutes](www.hanselminutes.com)
+* [Hidden Brain](npr.org/series/423302056/hidden-brain)
+* [How I Built This](www.npr.org/series/490248027/how-i-built-this)
+* [Inquiring Minds](art19.com/shows/inquiring-minds)
+* [Money Talking](www.wnyc.org/shows/moneytalking)
+* [Planet Money](www.npr.org/planetmoney)
+* [The Vergecast](art19.com/shows/vergecast)
+* [Software Engineering Radio](http://www.se-radio.net/)
