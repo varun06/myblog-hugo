@@ -4,10 +4,6 @@
 		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
 	{{ end }}
 
-	{{ if ne $url "imo/" }}
-		<a href='{{ .Site.BaseURL }}imo'>{{ with .Site.Params.imo }}{{ . }}{{ else }}IMO{{ end }}</a>
-	{{ end }}
-	
 	{{ if ne $url "about/" }}
 		<a href='{{ .Site.BaseURL }}about'>{{ with .Site.Params.about }}{{ . }}{{ else }}About{{ end }}</a>
 	{{ end }}
