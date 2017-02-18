@@ -6,7 +6,7 @@ title = "Never stop learning..."
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
-disqusShortname = "varunksaini"
+disqusShortname = ""
 
 [params]
 	name = "Varun Saini"
