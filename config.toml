@@ -2,18 +2,13 @@
 baseurl = "https://varunksaini.com/"
 languageCode = "en-us"
 title = "Never stop learning..."
-# theme = "hugo-cactus-theme"
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
-# Disable comments by leaving disqusShortname empty
-disqusShortname = ""
 
 [params]
 	name = "Varun Saini"
 	description = "Just write"
 	bio = "Whatever can be written in Golang, will be written in Golang."
 	# Enter optionally your twitter account
-	twitter = "https://twitter.com/varunksaini"
+	twitter = "varunksaini"
 	enableRSS = true
 
 	# Add custom assets with their paths relative to the static folder
@@ -48,5 +43,4 @@ disqusShortname = ""
 # Add additional social link entries underneath
 [social]
     twitter  = "https://www.twitter.com/varunksaini"
-    facebook = "https://www.facebook.com/varunksaini"
     github   = "https://www.github.com/varun06"
