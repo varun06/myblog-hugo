@@ -41,4 +41,4 @@ func main() {
 ```
 `go run` and check `top`
 
-Note - I ran this on `mac osx El Capitan`
+Note - I ran this on `Mac OSX El Capitan`
