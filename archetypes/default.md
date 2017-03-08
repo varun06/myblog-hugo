@@ -1,4 +1,6 @@
 +++
-tags = ["general", "blog"]
-categories = ["general", "technical"]
+title = ""
+description = ""
+tags = []
+categories = []
 +++

@@ -1,46 +1,39 @@
-# Site settings
 baseurl = "https://varunksaini.com/"
-languageCode = "en-us"
-title = "Never stop learning..."
+languageCode = "en-US"
+title = "Varun Saini"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
 
 [params]
-	name = "Varun Saini"
-	description = "Just write"
-	bio = "Whatever can be written in Golang, will be written in Golang."
-	# Enter optionally your twitter account
-	twitter = "varunksaini"
-	enableRSS = true
+  avatar = "self.png"
+  author = "Varun Saini"
+  description = "Describe your website"
 
-	# Add custom assets with their paths relative to the static folder
-	customCSS = []
-	customJS  = []
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
 
-	# The variables below are optionally too and can be used to
-	# translate or customize each string of the theme.
+[params.social]
+  Github        = "varun06"
+  Email         = "email@example.com"
+  Twitter       = "varunksaini"
+  LinkedIn      = "varunksaini"
+  Stackoverflow = "varunksaini"
 
-	# Navigation links
-	home = ""
-	about = ""
-	subscribe = ""
-	# Pagination links
-	olderPosts = ""
-	newerPosts = ""
-	readMore = ""
-	copyright = ""
-	# Sharing options and author information in posts
-	aboutAuthor = "Who am I, Why I am here..."
-	tweet = ""
-	share = ""
-	# 404 page
-	title404 = ""
-	subtitle404 = ""
-
-	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "mono-social"
-    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-    socialIconStyle = "circle"
-
-# Add additional social link entries underneath
-[social]
-    twitter  = "https://www.twitter.com/varunksaini"
-    github   = "https://www.github.com/varun06"
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "reading"
+  identifier = "reading"
+  weight = 200
+  url = "/reading/"
