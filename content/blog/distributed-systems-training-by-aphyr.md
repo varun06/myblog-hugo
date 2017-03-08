@@ -1,6 +1,6 @@
 +++
 date = "2017-03-07T21:35:43-06:00"
-title = "Distributed systems training by Aphyr"
+title = "Distributed systems class by Aphyr"
 categories = []
 tags = []
 description = "Distributed systems training"
