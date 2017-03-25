@@ -6,6 +6,8 @@
       {{ partial "header" . }}
       {{ if isset .Params "showpagemeta" }}
         {{ .Render "reading" }}
+      {{ else if isset .Params "videos" }}
+	{{ .Render "videos" }}
       {{ else }}
       <div class="container">
         <div class="blog-post">
@@ -47,7 +49,6 @@
             </div>
           </div>
           <hr>
-        {{ partial "disqus" . }}
         </div>
       </div>
       {{ end }}

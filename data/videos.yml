@@ -1,0 +1,17 @@
+name: Chicago Go Meetup Videos
+source:
+  - icon: fa fa-video-camera
+    name: Just Generate Everything with Goa by Kevin Keuning
+    link: https://vimeo.com/196251649
+
+  - icon: fa fa-video-camera
+    name: An Evening with William Kennedy
+    link: https://vimeo.com/199832344
+
+  - icon: fa fa-video-camera
+    name: Daniel Whitenack on Go for Data Science, Engineering, and Analysis
+    link: https://vimeo.com/184654135
+  
+  - icon: fa fa-video-camera
+    name: Adam Wonak on Deploying Go Web Apps Using Docker & Elastic Beanstalk
+    link: https://vimeo.com/180700382

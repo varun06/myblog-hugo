@@ -37,3 +37,8 @@ theme = "hugo-sustain"
   identifier = "reading"
   weight = 200
   url = "/reading/"
+[[menu.main]]
+  name = "meetup videos"
+  identifier = "videos"
+  weight = 300
+  url = "/videos/"
