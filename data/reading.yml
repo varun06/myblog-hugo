@@ -1,6 +1,21 @@
-name: Reading
+name: Currently Reading
 source:
   - icon: fa fa-book
-    name: Code
-    description: The Hidden Language of Computer Hardware and Software
+    name: 1984
+    link: https://www.amazon.com/1984-George-Orwell-ebook/dp/B003JTHWKU/ 
+    author: George Orwell
 
+  - icon: fa fa-book
+    name: Fate Of Perfection
+    link: https://www.amazon.com/gp/product/B01FSK7IWO/
+    author: K.F. Breene
+    
+  - icon: fa fa-book
+    name: Hemingway Didnt Say That The Truth Behind Familiar Quotations
+    link: https://www.amazon.com/gp/product/B01K4TXVWA/
+    author: Garson O Toole
+
+  - icon: fa fa-book
+    name: Are You Smart Enough to Work at Google?
+    link: https://www.amazon.com/gp/product/031609997X/
+    author: William Poundstone
