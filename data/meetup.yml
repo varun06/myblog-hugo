@@ -1,5 +1,9 @@
-name: Chicago Go Meetup Videos
+name: Chicago Go Meetup
 source:
+  - icon: fa fa-video-camera
+    name: Daniel Whitenack on taking over the (Data) World with Go and Pachyderm 
+    link: https://vimeo.com/216597275
+
   - icon: fa fa-video-camera
     name: Just Generate Everything with Goa by Kevin Keuning
     link: https://vimeo.com/196251649
@@ -15,3 +19,7 @@ source:
   - icon: fa fa-video-camera
     name: Adam Wonak on Deploying Go Web Apps Using Docker & Elastic Beanstalk
     link: https://vimeo.com/180700382
+
+  - icon: fa fa-book
+    name: Mark West on writing an interpreter in Go
+    link: https://docs.google.com/presentation/d/1Udtq9UYeGpkAGKodyv1Qo7xJCPXrXfjtzW-uLjlapBk/edit#slide=id.p4

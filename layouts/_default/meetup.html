@@ -1,9 +1,9 @@
-<section id="videos">
+<section id="meetup">
   <div class="container">
-    <h3>{{ .Site.Data.videos.name }}</h3>
+    <h3>{{ .Site.Data.meetup.name }}</h3>
     <div class="panel panel-default">
       <div class="panel-body">
-      {{ range $i, $el := .Site.Data.videos.source }}
+      {{ range $i, $el := .Site.Data.meetup.source }}
         <h5>
           <i class="{{ .icon }}"></i>&nbsp;&nbsp;
 	  <strong><a href={{ $el.link }}>{{ $el.name }}</a></strong>

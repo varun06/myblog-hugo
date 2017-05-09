@@ -6,8 +6,8 @@
       {{ partial "header" . }}
       {{ if isset .Params "showpagemeta" }}
         {{ .Render "reading" }}
-      {{ else if isset .Params "videos" }}
-	{{ .Render "videos" }}
+      {{ else if isset .Params "meetup" }}
+	{{ .Render "meetup" }}
       {{ else }}
       <div class="container">
         <div class="blog-post">

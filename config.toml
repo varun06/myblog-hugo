@@ -38,7 +38,7 @@ googleAnalytics = ""
   weight = 200
   url = "/reading/"
 [[menu.main]]
-  name = "meetup videos"
-  identifier = "videos"
-  weight = 300
-  url = "/videos/"
+  name = "meetup"
+  identifier = "meetup"
+  weightvideos = 300
+  url = "/meetup/"
