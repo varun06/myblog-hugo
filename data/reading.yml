@@ -1,21 +1,22 @@
 name: Currently Reading
 source:
   - icon: fa fa-book
-    name: 1984
-    link: https://www.amazon.com/1984-George-Orwell-ebook/dp/B003JTHWKU/ 
-    author: George Orwell
+    name: The Second Machine Age
+    link: https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies-ebook/dp/B00D97HPQI/ 
+    author: Erik Brynjolfsson
+  
+  - icon: fa fa-book
+    name: Writing An Interpreter In Go
+    link: https://www.amazon.com/Writing-Interpreter-Go-Thorsten-Ball-ebook/dp/B01N2T1VD2/
+    author: Thorsten Ball
 
   - icon: fa fa-book
-    name: Fate Of Perfection
-    link: https://www.amazon.com/gp/product/B01FSK7IWO/
-    author: K.F. Breene
-    
-  - icon: fa fa-book
-    name: Hemingway Didnt Say That The Truth Behind Familiar Quotations
-    link: https://www.amazon.com/gp/product/B01K4TXVWA/
-    author: Garson O Toole
+    name: Harry Potter and the Sorcerer's Stone 
+    link: https://www.amazon.com/gp/product/0439554934/ 
+    author: J. K. Rowling 
 
   - icon: fa fa-book
     name: Are You Smart Enough to Work at Google?
     link: https://www.amazon.com/gp/product/031609997X/
     author: William Poundstone
+  

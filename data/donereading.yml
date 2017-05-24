@@ -1,0 +1,26 @@
+name: 2017 
+source:
+  - icon: fa fa-book
+    name: 1984
+    link: https://www.amazon.com/1984-George-Orwell-ebook/dp/B003JTHWKU/ 
+    author: George Orwell
+  
+  - icon: fa fa-book
+    name: Hemingway Didnt Say That The Truth Behind Familiar Quotations
+    link: https://www.amazon.com/gp/product/B01K4TXVWA/
+    author: Garson O Toole
+  
+  - icon: fa fa-book
+    name: The Marvelous Misadventures of Ingrid Winter 
+    link: https://www.amazon.com/gp/product/B01J12TAV2/ 
+    author: J.S. Drangsholt
+  
+  - icon: fa fa-book
+    name: The Drunken Botanist, The Plants that Create the World's Great Drinks 
+    link: https://www.amazon.com/gp/product/B00AFKIRGY/
+    author: Amy Stewart 
+  
+  - icon: fa fa-book
+    name: Bigger Leaner Stronger, The Simple Science of Building the Ultimate Male Body (The Build Healthy Muscle Series)
+    link: https://www.amazon.com/gp/product/B006XF5BTG/
+    author: Michael Matthews 

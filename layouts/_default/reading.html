@@ -11,5 +11,16 @@
       {{ end }}
       </div>
     </div>
+    <h3>{{ .Site.Data.donereading.name }}</h3>
+    <div class="panel panel-default">
+      <div class="panel-body">
+      {{ range $i, $el := .Site.Data.donereading.source }}
+        <h5>
+          <i class="{{ .icon }}"></i>&nbsp;&nbsp;
+	  <strong><a href= {{ $el.link }}>{{ $el.name }}</a></strong>&nbsp;,&nbsp; by {{ $el.author }}
+        </h5>
+      {{ end }}
+      </div>
+    </div>
   </div>
 </section>
