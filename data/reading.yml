@@ -1,6 +1,16 @@
 name: Currently Reading
 source:
   - icon: fa fa-book
+    name: The Handmaid's Tale 
+    link: https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ 
+    author: Margaret Atwood
+
+  - icon: fa fa-book
+    name: Rationality, From AI to Zombies 
+    link: https://www.amazon.com/Rationality-AI-Zombies-Eliezer-Yudkowsky-ebook/dp/B00ULP6EW2/ 
+    author: Eliezer Yudkowsky
+
+  - icon: fa fa-book
     name: The Second Machine Age
     link: https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies-ebook/dp/B00D97HPQI/ 
     author: Erik Brynjolfsson
