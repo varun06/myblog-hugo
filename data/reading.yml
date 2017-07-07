@@ -1,9 +1,9 @@
 name: Currently Reading
 source:
   - icon: fa fa-book
-    name: The Handmaid's Tale 
-    link: https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ 
-    author: Margaret Atwood
+    name: Designing Data-Intensive Applications, The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+    link: https://www.amazon.com/gp/product/1449373321/
+    author: Martin Kleppmann
 
   - icon: fa fa-book
     name: Rationality, From AI to Zombies 
@@ -19,11 +19,6 @@ source:
     name: Writing An Interpreter In Go
     link: https://www.amazon.com/Writing-Interpreter-Go-Thorsten-Ball-ebook/dp/B01N2T1VD2/
     author: Thorsten Ball
-
-  - icon: fa fa-book
-    name: Harry Potter and the Sorcerer's Stone 
-    link: https://www.amazon.com/gp/product/0439554934/ 
-    author: J. K. Rowling 
 
   - icon: fa fa-book
     name: Are You Smart Enough to Work at Google?

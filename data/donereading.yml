@@ -1,6 +1,11 @@
 name: 2017 
 source:
   - icon: fa fa-book
+    name: The Handmaid's Tale 
+    link: https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ 
+    author: Margaret Atwood
+
+  - icon: fa fa-book
     name: 1984
     link: https://www.amazon.com/1984-George-Orwell-ebook/dp/B003JTHWKU/ 
     author: George Orwell
@@ -24,3 +29,8 @@ source:
     name: Bigger Leaner Stronger, The Simple Science of Building the Ultimate Male Body (The Build Healthy Muscle Series)
     link: https://www.amazon.com/gp/product/B006XF5BTG/
     author: Michael Matthews 
+  
+  - icon: fa fa-book
+    name: Harry Potter and the Sorcerer's Stone 
+    link: https://www.amazon.com/gp/product/0439554934/ 
+    author: J. K. Rowling 
