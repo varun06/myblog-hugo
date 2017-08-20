@@ -1,9 +1,9 @@
 name: Currently Reading
 source:
   - icon: fa fa-book
-    name: Designing Data-Intensive Applications, The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
-    link: https://www.amazon.com/gp/product/1449373321/
-    author: Martin Kleppmann
+    name: Writing An Interpreter In Go
+    link: https://www.amazon.com/Writing-Interpreter-Go-Thorsten-Ball-ebook/dp/B01N2T1VD2/
+    author: Thorsten Ball
 
   - icon: fa fa-book
     name: Rationality, From AI to Zombies 
@@ -15,11 +15,6 @@ source:
     link: https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies-ebook/dp/B00D97HPQI/ 
     author: Erik Brynjolfsson
   
-  - icon: fa fa-book
-    name: Writing An Interpreter In Go
-    link: https://www.amazon.com/Writing-Interpreter-Go-Thorsten-Ball-ebook/dp/B01N2T1VD2/
-    author: Thorsten Ball
-
   - icon: fa fa-book
     name: Are You Smart Enough to Work at Google?
     link: https://www.amazon.com/gp/product/031609997X/

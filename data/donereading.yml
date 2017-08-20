@@ -1,6 +1,11 @@
 name: 2017 
 source:
   - icon: fa fa-book
+    name: Designing Data-Intensive Applications, The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+    link: https://www.amazon.com/gp/product/1449373321/
+    author: Martin Kleppmann
+
+  - icon: fa fa-book
     name: The Handmaid's Tale 
     link: https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ 
     author: Margaret Atwood
