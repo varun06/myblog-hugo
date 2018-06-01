@@ -1,11 +1,6 @@
 baseurl = "https://varunksaini.com/"
 languageCode = "en-US"
 title = "Varun Saini"
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
-# theme = "hugo-sustain"
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
@@ -39,5 +34,5 @@ googleAnalytics = ""
 [[menu.main]]
   name = "go meetup videos"
   identifier = "meetup"
-  weightvideos = 300
+  weight = 300
   url = "/meetup/"
