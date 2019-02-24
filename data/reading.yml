@@ -1,22 +1,12 @@
 name: Currently Reading
 source:
   - icon: fa fa-book
-    name: Writing An Interpreter In Go
-    link: https://www.amazon.com/Writing-Interpreter-Go-Thorsten-Ball-ebook/dp/B01N2T1VD2/
-    author: Thorsten Ball
+    name: A Philosophy Of Software Design
+    link: https://www.amazon.com/gp/product/1732102201/
+    author: John Ousterhout
 
   - icon: fa fa-book
-    name: Rationality, From AI to Zombies 
-    link: https://www.amazon.com/Rationality-AI-Zombies-Eliezer-Yudkowsky-ebook/dp/B00ULP6EW2/ 
-    author: Eliezer Yudkowsky
+    name: A Programmer's Introduction to Mathematics
+    link: https://www.amazon.com/gp/product/17271254/ 
+    author: Jeremy Kun
 
-  - icon: fa fa-book
-    name: The Second Machine Age
-    link: https://www.amazon.com/Second-Machine-Age-Prosperity-Technologies-ebook/dp/B00D97HPQI/ 
-    author: Erik Brynjolfsson
-  
-  - icon: fa fa-book
-    name: Are You Smart Enough to Work at Google?
-    link: https://www.amazon.com/gp/product/031609997X/
-    author: William Poundstone
-  
