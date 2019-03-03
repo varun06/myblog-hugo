@@ -7,7 +7,7 @@ title = "Varun Saini"
 
 [params]
   avatar = "self.png"
-  author = "Varun Saini"
+  author = "Varun Kumar"
   description = "personal blog"
 
   # Custom assets can be linked with their paths relative to static/
@@ -16,7 +16,6 @@ title = "Varun Saini"
 
 [params.social]
   Github        = "varun06"
-  Twitter       = "varunksaini"
   LinkedIn      = "varunksaini"
   Stackoverflow = "varunksaini"
 
