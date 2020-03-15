@@ -1,7 +1,6 @@
 name: Currently Reading
 source:
   - icon: fa fa-book
-    name: A Programmer's Introduction to Mathematics
-    link: https://www.amazon.com/gp/product/17271254/ 
-    author: Jeremy Kun
-
+    name: Hacker's Delight (Second Edition)
+    link: https://www.amazon.com/Hackers-Delight-2nd-Henry-Warren/dp/0321842685/
+    author: Henry S. Warren, JR.
