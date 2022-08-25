@@ -1,0 +1,25 @@
+baseurl = "https://varunksaini.com/"
+languageCode = "en-US"
+title = "Varun Kumar"
+theme = "hugo-tailwind-journal"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[taxonomies]
+    tag = "tags"
+
+[permalinks]
+    posts = "/posts/:year/:month/:title/"
+
+[params]
+    author = "Varun Kumar"
+    avatar = "images/avatar.png"
+    description = "Blog"
+    tagline = "Blog"
+
+[languages]
+    [languages.en]
+        contentDir = "content/posts"
+        languageCode = "en-us"
+        languageName = "🇺🇸 English"
+        weight = 1
