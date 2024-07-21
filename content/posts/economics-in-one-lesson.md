@@ -5,10 +5,9 @@ date: 2023-02-19T10:36:17-06:00
 tags: [book, review, economics, reading]
 ---
 
-I was looking to read a book about economics from some time. I came across this book and immediately picked it up. I am really glad that I decided to read this book. This book is one of the most concise and thoughful work on economics.
+I was looking to read a book about economics from some time. I came across this book and immediately picked it up. I am really glad that I decided to read this book. This book is one of the most concise and thoughtful work on economics.
 
-### summary of the book:
-
+### summary of the book
 
 ### Thoughts
 
