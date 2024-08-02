@@ -1,5 +1,5 @@
 ---
-title: "The Things We Make: The Unknown History of Invention from Cathedrals to Soda Cans by Bill Hammock"
+title: "Book Review: The Things We Make: The Unknown History of Invention from Cathedrals to Soda Cans by Bill Hammock"
 description: "A book about engineering and engineering methods"
 date: 2024-07-21T08:18:28-05:00
 tags: [book, reviews, AI, ChatGPT]

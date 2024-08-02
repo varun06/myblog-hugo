@@ -1,5 +1,5 @@
 ---
-title: "Everybody Lies by Seth Stevens-Davidowitz"
+title: "Book Review: Everybody Lies by Seth Stevens-Davidowitz"
 description: "Book review for Everybody Lies"
 date: 2023-03-26T07:17:22-05:00
 tags: [book, review, reading]

@@ -1,5 +1,5 @@
 ---
-title: "Economics in One Lesson - by Henry Hazlitt"
+title: "Book Review: Economics in One Lesson - by Henry Hazlitt"
 description: "book review by Varun Saini"
 date: 2023-02-19T10:36:17-06:00
 tags: [book, review, economics, reading]
